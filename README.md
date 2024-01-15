@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a `README.md` file for your "Fort Knox Project - Restful API with Authentication and Authorization - Django."
 
 ```markdown
 # Fort Knox Project - Restful API with Authentication and Authorization - Django
